@@ -32,7 +32,7 @@ Este projeto é gratuito e de código aberto. Você pode usá-lo para projetos c
 
 ## Agradecimentos
 
-A versão inicial desse repositório foi desenvolvida por **[@Otavio-G](https://github.com/Otavio-G)**.
+A versão inicial desse repositório foi desenvolvida por **[@otaviouss](https://github.com/otaviouss)**.
 
 Agradecimentos ao desenvolvedor **[@krempser](https://github.com/krempser)**.
 
