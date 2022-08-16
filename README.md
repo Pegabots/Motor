@@ -7,7 +7,7 @@ Aqui se encontra o coração do nosso robozinho! O Motor é responsável por rea
 
 ## Background
 
-Explicação mais detalhada, quando houver
+O motor do Pegabot é baseado em uma técnica de machine learning bastante conhecida, a Random Forest. Essa técnica foi escolhida por diferentes razões. Entre elas, sua simplicidade e amplo conhecimento, mas principalmente por sua explicabilidade, não funcionando como uma caixa preta, mas permitindo que consigamos entender e explicar os seus resultados de uma maneira lógica seguindo a árvore de decisão formada por ela.
 
 ## Código de Conduta
 
