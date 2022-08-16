@@ -15,7 +15,12 @@ Reunimos aqui as diretrizes para ajudá-lo a descobrir onde você pode ser mais 
 
 ## Tipos de contribuições que procuramos
 
-"Listagem dos tipos de contribuições esperados"
+Você pode contribuir com o Motor do nosso robozinho:
+* Propondo novas técnicas de machine learning que melhorem a acurácia da ferramenta
+* Sugerindo novas análises com os dados já utilizados
+* Propondo novos dados para fomentar o algoritmo
+* Documentando e Reestruturando o que já está implementado
+* Corrigindo possíveis bugs
 
 Interessado em contribuir neste projeto? Leia!
 
@@ -34,7 +39,7 @@ Se você não vir sua ideia listada e achar que ela se encaixa nos objetivos des
 
 ## Configurando seu ambiente
 
-Explicação sobre como executar o script
+O script pode ser aberto e executado por meio do Google Colab ou por meio do Jupyter Notebook sem a necessidade de configurações especiais do ambiente de execução.
 
 ## Comunidade
 
