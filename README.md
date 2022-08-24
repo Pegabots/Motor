@@ -27,7 +27,7 @@ Para obter mais informações sobre SemVer, visite http://semver.org.
 
 ## Licença
 
-Este projeto é gratuito e de código aberto. Você pode usá-lo para projetos comerciais, projetos de código aberto ou praticamente o que você quiser. Você pode ver [aqui](/LICENSE) qual é a Licensa utilizada no projeto.
+Este projeto é gratuito e de código aberto. Você pode usá-lo para projetos comerciais, projetos de código aberto ou praticamente o que você quiser. No entanto, você deve disponibilizar o código fonte de qualquer biblioteca que utilize código fonte disponibilizado nesse repositório. Você pode ver [aqui](/LICENSE) qual é a Licensa utilizada no projeto. Para uma explicação simples e em português dessa licensa, acesse esse [site](http://escolhaumalicenca.com.br/licencas/lgpl-v3/#).
 
 
 ## Agradecimentos
